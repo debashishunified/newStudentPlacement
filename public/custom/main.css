@@ -1,0 +1,31 @@
+.brand-link {
+	font-size: 22px;
+	font-family: sans-serif;
+}
+.nav > .nav-item {
+	font-size: 15px;
+    margin-left: 10px;
+}
+.bg-dark {
+	background-color: #6c757d8c!important
+}
+.company_add_submit {
+	margin-top: 30px !important;
+}
+.error {
+	color: #ff0000ab;
+	font-size: 15px;
+}
+.img-circle {
+	margin-left: 22px;
+}
+.d-block{
+	font-size: 17px;
+}
+.sidebar-dark-primary .nav-sidebar>.nav-item>.nav-link.active, .sidebar-light-primary .nav-sidebar>.nav-item>.nav-link.active {
+    background-color: #3c8dbc !important;
+    color: #fff;
+}
+.tooltip .arrow {
+    padding-left: 15px !important;
+}
